@@ -1,0 +1,36 @@
+.contain{
+    background-color: #25637c;
+    border-radius: 10px;
+    width: 250px; /* Ajuste selon tes besoins */
+    height: 340px; /* Ajuste selon tes besoins */
+    
+}
+
+.image{
+    width: 100%; 
+    height: 200px;
+    border-radius: 10px 10px 0 0;
+    top: 0;
+    left: 0;
+    right: 0; 
+}
+
+.bouton{
+    background-color: white;
+    border: none;
+    width: 105px;
+    border-radius: 25px;
+    margin: 5px;
+}
+
+.text{
+    color: white;
+}
+
+.bouton-favoris{
+    background-color: white;
+    border: none;
+    width: 105px;
+    border-radius: 25px;
+    margin: 5px;
+}
